@@ -1,0 +1,9 @@
+C:\Users\woodd\source\repos\LeadzProject\bin\Debug\Leadz.WebFE.Views.dll
+C:\Users\woodd\source\repos\LeadzProject\bin\Debug\Leadz.WebFE.Views.pdb
+C:\Users\woodd\source\repos\LeadzProject\bin\Debug\Leadz.Api.dll
+C:\Users\woodd\source\repos\LeadzProject\bin\Debug\Leadz.WebFE.dll
+C:\Users\woodd\source\repos\LeadzProject\bin\Debug\Leadz.Api.pdb
+C:\Users\woodd\source\repos\LeadzProject\bin\Debug\Leadz.WebFE.pdb
+C:\Users\woodd\source\repos\LeadzProject\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\woodd\source\repos\LeadzProject\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\woodd\source\repos\LeadzProject\obj\Debug\docker-compose.dcproj.CopyComplete

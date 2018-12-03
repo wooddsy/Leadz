@@ -1,0 +1,23 @@
+services:
+  leadz.api:
+    build:
+      context: C:\Users\woodd\source\repos\LeadzProject
+      dockerfile: leadz.api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: leadzapi
+    ports:
+    - target: 80
+  leadz.webfe:
+    build:
+      context: C:\Users\woodd\source\repos\LeadzProject
+      dockerfile: Leadz.WebFE/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      serviceUrl: http://leadz.api
+    image: leadzwebfe
+    links:
+    - leadz.api
+    ports:
+    - target: 80
+version: '3.4'

@@ -1,0 +1,79 @@
+﻿@page
+@model Leadz.WebFE.Pages.Canvasser.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Canvasser</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.TeamId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.TeamId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.Address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.PhoneNo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.PhoneNo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.Role)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.Role)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.CreatedDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.CreatedDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.ModifiedDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.ModifiedDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.CreatedBy)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.CreatedBy)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.ModifiedBy)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.ModifiedBy)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Canvasser.Version)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Canvasser.Version)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Canvasser.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

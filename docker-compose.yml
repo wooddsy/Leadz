@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  leadz.api:
+    image: ${DOCKER_REGISTRY}leadzapi
+    build:
+      context: .
+      dockerfile: leadz.api/Dockerfile
+
+  leadz.webfe:
+    image: ${DOCKER_REGISTRY}leadzwebfe
+    environment:
+      - serviceUrl=http://leadz.api
+    build:
+      context: .
+      dockerfile: Leadz.WebFE/Dockerfile
+    links:
+    - leadz.api

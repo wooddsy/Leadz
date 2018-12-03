@@ -1,0 +1,14 @@
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.WebFE.deps.json
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.WebFE.runtimeconfig.json
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.WebFE.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.WebFE.dll
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.WebFE.pdb
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.Api.dll
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\bin\Debug\netcoreapp2.0\Leadz.Api.pdb
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.dll
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\obj\Debug\netcoreapp2.0\Leadz.WebFE.pdb

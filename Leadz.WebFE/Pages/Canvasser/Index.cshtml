@@ -1,0 +1,90 @@
+﻿@page
+@model Leadz.WebFE.Pages.Canvasser.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-page="Create">Add new Canvasser</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].TeamId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].Address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].PhoneNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].Role)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].CreatedDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].ModifiedDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].CreatedBy)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].ModifiedBy)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Canvasser[0].Version)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Canvasser) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TeamId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Role)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Version)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

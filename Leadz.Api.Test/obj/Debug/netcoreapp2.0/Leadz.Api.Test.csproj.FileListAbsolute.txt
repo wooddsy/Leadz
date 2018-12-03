@@ -1,0 +1,17 @@
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.Test.deps.json
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.Test.runtimeconfig.json
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.Test.runtimeconfig.dev.json
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.Test.dll
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.Test.pdb
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.dll
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\bin\Debug\netcoreapp2.0\Leadz.Api.pdb
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.AssemblyInfoInputs.cache
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.AssemblyInfo.cs
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.csproj.CopyComplete
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.dll
+C:\Users\Kevin\Source\Repos\Computing Project\Leadz.Api.Test\obj\Debug\netcoreapp2.0\Leadz.Api.Test.pdb

@@ -1,0 +1,114 @@
+﻿@page
+@model Leadz.WebFE.Pages.Leads.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Lead</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Lead.Surname" class="control-label"></label>
+                <input asp-for="Lead.Surname" class="form-control" />
+                <span asp-validation-for="Lead.Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.HouseNumber" class="control-label"></label>
+                <input asp-for="Lead.HouseNumber" class="form-control" />
+                <span asp-validation-for="Lead.HouseNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.Street" class="control-label"></label>
+                <input asp-for="Lead.Street" class="form-control" />
+                <span asp-validation-for="Lead.Street" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.Town" class="control-label"></label>
+                <input asp-for="Lead.Town" class="form-control" />
+                <span asp-validation-for="Lead.Town" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.PostCode" class="control-label"></label>
+                <input asp-for="Lead.PostCode" class="form-control" />
+                <span asp-validation-for="Lead.PostCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.NoOfDoors" class="control-label"></label>
+                <input asp-for="Lead.NoOfDoors" class="form-control" />
+                <span asp-validation-for="Lead.NoOfDoors" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.NoOfWindows" class="control-label"></label>
+                <input asp-for="Lead.NoOfWindows" class="form-control" />
+                <span asp-validation-for="Lead.NoOfWindows" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.AppointmentDateTime" class="control-label"></label>
+                <input asp-for="Lead.AppointmentDateTime" class="form-control" />
+                <span asp-validation-for="Lead.AppointmentDateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.Notes" class="control-label"></label>
+                <input asp-for="Lead.Notes" class="form-control" />
+                <span asp-validation-for="Lead.Notes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.Status" class="control-label"></label>
+                <input asp-for="Lead.Status" class="form-control" />
+                <span asp-validation-for="Lead.Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.DateTaken" class="control-label"></label>
+                <input asp-for="Lead.DateTaken" class="form-control" />
+                <span asp-validation-for="Lead.DateTaken" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.CanvasserId" class="control-label"></label>
+                <input asp-for="Lead.CanvasserId" class="form-control" />
+                <span asp-validation-for="Lead.CanvasserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.Name" class="control-label"></label>
+                <input asp-for="Lead.Name" class="form-control" />
+                <span asp-validation-for="Lead.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.CreatedDate" class="control-label"></label>
+                <input asp-for="Lead.CreatedDate" class="form-control" />
+                <span asp-validation-for="Lead.CreatedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.ModifiedDate" class="control-label"></label>
+                <input asp-for="Lead.ModifiedDate" class="form-control" />
+                <span asp-validation-for="Lead.ModifiedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.CreatedBy" class="control-label"></label>
+                <input asp-for="Lead.CreatedBy" class="form-control" />
+                <span asp-validation-for="Lead.CreatedBy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lead.ModifiedBy" class="control-label"></label>
+                <input asp-for="Lead.ModifiedBy" class="form-control" />
+                <span asp-validation-for="Lead.ModifiedBy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

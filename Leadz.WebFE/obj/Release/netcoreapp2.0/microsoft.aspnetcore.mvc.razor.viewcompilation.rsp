@@ -1,0 +1,23 @@
+C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Leadz.WebFE
+--content-root=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\About.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Canvasser\Create.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Canvasser\Delete.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Canvasser\Details.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Canvasser\Edit.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Canvasser\Index.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Contact.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Error.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Index.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\LeadsList.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Leads\Create.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Leads\Delete.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Leads\Details.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Leads\Edit.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\Leads\Index.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\_Layout.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\_ViewImports.cshtml
+--file=C:\Users\Kevin\source\repos\Computing Project\Leadz.WebFE\Pages\_ViewStart.cshtml

@@ -1,0 +1,46 @@
+﻿@page
+@model Leadz.WebFE.Pages.Leads.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<style type="text/css">
+
+
+    .belled {
+        background-color: darkgreen;
+    }
+
+    .PBO, .DBO {
+        background-color: darkred;
+    }
+
+    
+</style>
+
+<p>
+    <a asp-page="Create">Add new Lead</a>
+</p>
+
+
+    @foreach (var item in Model.Lead)
+    {
+
+       
+        <div class="card text-white @item.Status mb-3" style="max-width: 18rem;">
+        <div class="card-header">@item.Status</div>
+        <div class="card-body text-white">
+        <h5 class="card-title">@item.Surname</h5>
+        <p class="card-text"></p>
+        </div>
+        
+            <div class="card-body">
+                <a asp-page="Details" asp-route-id="@item.Id" class="card-link">Details</a>
+                <a asp-page="Edit" asp-route-id="@item.Id" class="card-link">Edit</a>
+            </div>
+        </div>
+       
+    }
+

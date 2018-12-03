@@ -1,0 +1,4 @@
+C:\Users\Kevin\Source\Repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.0\leadzapicore.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Source\Repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.0\leadzapicore.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.0\leadzapicore.AssemblyInfoInputs.cache
+C:\Users\Kevin\Source\Repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.0\leadzapicore.AssemblyInfo.cs

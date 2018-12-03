@@ -1,0 +1,29 @@
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\bin\Debug\netcoreapp2.1\Leadz.Api.deps.json
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\bin\Debug\netcoreapp2.1\Leadz.Api.runtimeconfig.json
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\bin\Debug\netcoreapp2.1\Leadz.Api.runtimeconfig.dev.json
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\bin\Debug\netcoreapp2.1\Leadz.Api.dll
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\bin\Debug\netcoreapp2.1\Leadz.Api.pdb
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.csproj.CoreCompileInputs.cache
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.AssemblyInfoInputs.cache
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.AssemblyInfo.cs
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.dll
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.pdb
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.RazorAssemblyInfo.cache
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.RazorAssemblyInfo.cs
+C:\Users\woodd\source\repos\Computing Project\Leadapiservice\leadzapicore\obj\Debug\netcoreapp2.1\Leadz.Api.RazorTargetAssemblyInfo.cache
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\bin\Debug\netcoreapp2.1\Leadz.Api.deps.json
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\bin\Debug\netcoreapp2.1\Leadz.Api.runtimeconfig.json
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\bin\Debug\netcoreapp2.1\Leadz.Api.runtimeconfig.dev.json
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\bin\Debug\netcoreapp2.1\Leadz.Api.dll
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\bin\Debug\netcoreapp2.1\Leadz.Api.pdb
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.csprojAssemblyReference.cache
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.csproj.CoreCompileInputs.cache
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.RazorAssemblyInfo.cache
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.RazorAssemblyInfo.cs
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.AssemblyInfoInputs.cache
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.AssemblyInfo.cs
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.RazorTargetAssemblyInfo.cache
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.dll
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\Leadz.Api.pdb
+C:\Users\woodd\source\repos\LeadzProject\leadz.api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
